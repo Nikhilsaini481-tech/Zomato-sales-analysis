@@ -6,11 +6,19 @@ Embark on a gastronomic odyssey with our meticulously crafted Zomato Analysis pr
 
 ## Key Features🍕
 
-- **Unveiling Trends**: Our code meticulously analyzes Zomato's voluminous data, unveiling nuanced trends and shifts in the culinary landscape. From upsurges in plant-based cuisine to the resurgence of age-old gastronomic traditions, we dissect the data to present a comprehensive view.
+- Analyse What type of Restraunt do the majority of Customers order From.
 
-- **Restaurant Prodigy**: Discover the celebrated eateries that grace the Zomato platform. We dissect the hidden metrics that define culinary excellence, providing a panoramic view of what makes a restaurant truly exceptional.
+- How many votes has each type of restraunt recieved from customers.
 
-- **Cuisine Chronicles**: Delve into the world of trending cuisines and gastronomic adventures. Our code examines the popularity of various culinary styles, shedding light on evolving preferences and cultural crossovers.
+- What are the ratings that the majority of restraunts have recieved.
+
+- Zomato Has obsrved that most couples order most of their food onlne. What is their
+ avg spending on each order.
+
+
+-  Which mode (Offline - online) has recieved the maximum rating ?
+  
+-  Which type of restraunt recieved more offline orders , so that zomato can provide those customers with some good offers
 
 ## Data Science and Libraries🍟
 
